@@ -1,0 +1,14 @@
+# Binaries
+/bin/
+/order-service
+*.exe
+*.test
+
+# Test and coverage artifacts
+coverage.out
+coverage.html
+
+# Environment and IDE files
+.env
+.idea/
+.vscode/
